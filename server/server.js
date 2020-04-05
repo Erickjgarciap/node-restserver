@@ -8,6 +8,10 @@
  app.use(bodyParser.json());
 
 
+ app.get('/', function(req, res) {
+     res.send('Prueba de app servida en la nube');
+ });
+
  app.get('/usuario', function(req, res) {
      res.json('get usuario');
  });
