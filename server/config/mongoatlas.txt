@@ -1,0 +1,7 @@
+//pass mongo atlas jHKpbPPmglMtZmSH
+//user ericko123
+
+//user erick12345
+pass: fL3Zu1hErA4fKxN2
+
+mongodb+srv://ericko123:jHKpbPPmglMtZmSH@cluster0-vofpq.mongodb.net/cafe
